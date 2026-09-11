@@ -8,3 +8,7 @@ Repositorio paraguas para las presentaciones interactivas del modelo operativo d
 - `applied-ai/` — Reservado para el modelo operativo de IA aplicada y Analytics.
 
 Las presentaciones están construidas como HTML estático autocontenido para poder publicarlas mediante GitHub Pages.
+
+## Publicación
+
+El repositorio incluye un workflow de GitHub Actions para desplegar automáticamente la rama `main` en GitHub Pages.
